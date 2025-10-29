@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/camcilrath/camcilrath/main/assets/banner.png" alt="Chris McIlrath Banner" width="100%" height="500px" />
+</p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Chris McIlrath</span></h1>
 
