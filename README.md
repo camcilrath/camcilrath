@@ -1,12 +1,8 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Vt4Yf8N.png" alt="Chris McIlrath Banner" width="100%" />
-</p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Chris McIlrath</span></h1>
 
 <p align="center">
-  <strong>Cybersecurity Enthusiast | SOC Analyst in Training | Home Lab Builder</strong><br>
+  <strong>Cybersecurity Enthusiast | Aspiring SOC Analyst | Home Lab Builder</strong><br>
   Exploring security through hands-on projects, automation, and continuous learning.
 </p>
 
@@ -107,15 +103,15 @@ Focused on improving remote access security and reducing attack surface.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisMcIlrath&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camcilrath&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMcIlrath&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camcilrath&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChrisMcIlrath&label=Profile%20Views&color=0e75b6&style=flat" alt="ChrisMcIlrath" />
+  <img src="https://komarev.com/ghpvc/?username=camcilrath&label=Profile%20Views&color=0e75b6&style=flat" alt="ChrisMcIlrath" />
 </p>
 
 ---
@@ -126,7 +122,7 @@ Focused on improving remote access security and reducing attack surface.
   <a href="https://linkedin.com/in/chrismcilrath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Chris%20McIlrath-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/ChrisMcIlrath" target="_blank">
+  <a href="https://github.com/camcilrath" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
