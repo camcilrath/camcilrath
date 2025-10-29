@@ -119,7 +119,7 @@ Focused on improving remote access security and reducing attack surface.
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/chrismcilrath" target="_blank">
+  <a href="https://linkedin.com/in/chris-mcilrath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Chris%20McIlrath-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/camcilrath" target="_blank">
