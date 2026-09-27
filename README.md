@@ -90,6 +90,8 @@ My responsibilities include:
 
 ### Security Operations Dashboard
 
+**Linux • Python • Security Monitoring • Automation • Web Dashboard**
+
 Developing a Linux-based security and operations platform designed to centralize visibility across systems managed by Summit.
 
 **Focus areas:**
@@ -106,6 +108,8 @@ The project is being designed so monitoring logic and data sources can support m
 ---
 
 ### Network Operations Center Display
+
+**Raspberry Pi • Linux • Python • Network Monitoring • JSON • Automation**
 
 Built a dedicated Raspberry Pi/Linux NOC system providing persistent, at-a-glance monitoring of production infrastructure.
 
@@ -127,6 +131,8 @@ The system provides a lightweight operational view without requiring administrat
 
 ### Cloud Backup & Disaster Recovery
 
+**MSP360 • AWS S3 • Windows Server • Backup & Recovery • Disaster Recovery**
+
 Designed and implemented a layered backup strategy for managed Windows endpoints and servers using **MSP360 and Amazon S3**.
 
 **Areas of implementation include:**
@@ -146,6 +152,8 @@ The objective is not simply successful backup jobs, but having a documented and 
 
 ### Network & Firewall Security
 
+**Fortinet • FortiGate • Network Security • DNS • Firewall Administration**
+
 Hands-on administration and hardening of Fortinet FortiGate infrastructure supporting a production business environment.
 
 **Security work includes:**
@@ -163,6 +171,8 @@ Hands-on administration and hardening of Fortinet FortiGate infrastructure suppo
 ---
 
 ### Microsoft 365 Security Administration
+
+**Microsoft 365 • Defender • DKIM • SPF • Email Security • Identity & Access**
 
 Security and administrative work within Microsoft 365 environments, including:
 
@@ -184,6 +194,8 @@ My home lab remains an important environment for safely testing security concept
 
 ### Wazuh SIEM
 
+**Wazuh • SIEM • Linux • Endpoint Monitoring • Log Analysis**
+
 Built a Wazuh environment for centralized security monitoring and endpoint visibility.
 
 - SIEM deployment on Linux
@@ -194,6 +206,8 @@ Built a Wazuh environment for centralized security monitoring and endpoint visib
 - Log analysis
 
 ### Ubuntu Server Lab
+
+**Ubuntu Server • Linux • Docker • SSH • Networking**
 
 Repurposed physical hardware into a Linux server environment for security and infrastructure experimentation.
 
@@ -207,6 +221,8 @@ Repurposed physical hardware into a Linux server environment for security and in
 
 ### SSH Hardening
 
+**Linux • SSH • Key Authentication • Least Privilege • Access Control**
+
 Implemented and documented secure remote administration practices including:
 
 - SSH key authentication
@@ -216,6 +232,8 @@ Implemented and documented secure remote administration practices including:
 - Remote-access hardening
 
 ### Pi-hole / DNS Filtering
+
+**Raspberry Pi • Linux • DNS • Network Filtering**
 
 Deployed Raspberry Pi-based DNS filtering to explore DNS security, network filtering, telemetry blocking, and Linux administration.
 
