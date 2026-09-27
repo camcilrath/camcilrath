@@ -1,21 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/camcilrath/camcilrath/main/assets/Summit%20Site%20Hero.png"
-       alt="Summit Cybersecurity & IT Solutions"
+  <img src="https://raw.githubusercontent.com/camcilrath/camcilrath/main/assets/Github%20Hero.png"
+       alt="Chris McIlrath - Cybersecurity & IT Professional"
        width="100%" />
-</p>
-
-<h1 align="center">Chris McIlrath</h1>
-
-<p align="center">
-  <strong>Cybersecurity & IT Professional | Security Operations | Infrastructure | Cloud</strong><br>
-  Founder, Summit Cybersecurity & IT Solutions
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Security%20Operations-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Infrastructure-Systems%20%26%20Network-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
 
 ---
@@ -53,7 +39,7 @@ Alongside operating Summit, I am pursuing a **full-time remote cybersecurity opp
   <br>
 
   <!-- Cloud & Management -->
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Amazon-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/MSP360-RMM%20%26%20Backup-2F67D0?style=for-the-badge" />
@@ -107,6 +93,7 @@ My responsibilities include:
 Developing a Linux-based security and operations platform designed to centralize visibility across systems managed by Summit.
 
 **Focus areas:**
+
 - Infrastructure and endpoint health
 - Security status and operational visibility
 - Linux-based data collection
@@ -123,6 +110,7 @@ The project is being designed so monitoring logic and data sources can support m
 Built a dedicated Raspberry Pi/Linux NOC system providing persistent, at-a-glance monitoring of production infrastructure.
 
 **Implemented capabilities include:**
+
 - Automated infrastructure reachability monitoring
 - Internet performance collection
 - Network and server status
@@ -142,6 +130,7 @@ The system provides a lightweight operational view without requiring administrat
 Designed and implemented a layered backup strategy for managed Windows endpoints and servers using **MSP360 and Amazon S3**.
 
 **Areas of implementation include:**
+
 - Endpoint and server backup policies
 - File and image-based backup strategies
 - AWS S3 storage
@@ -160,6 +149,7 @@ The objective is not simply successful backup jobs, but having a documented and 
 Hands-on administration and hardening of Fortinet FortiGate infrastructure supporting a production business environment.
 
 **Security work includes:**
+
 - Administrative attack-surface reduction
 - Secure management configuration
 - Firewall policy review
@@ -190,7 +180,7 @@ Security and administrative work within Microsoft 365 environments, including:
 
 ## CYBERSECURITY LABS
 
-My home lab remains an important environment for safely testing security concepts before applying appropriate techniques in production environments.
+My home lab remains an important environment for safely testing security concepts and developing new skills before applying appropriate techniques in production environments.
 
 ### Wazuh SIEM
 
@@ -235,7 +225,7 @@ Deployed Raspberry Pi-based DNS filtering to explore DNS security, network filte
 
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-IN%20PROGRESS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20%7C%20IN%20PROGRESS-FF9900?style=for-the-badge" />
 </p>
 
 I continue to expand my cloud and security knowledge through hands-on projects and structured training, with current study focused on **AWS Cloud Practitioner** concepts and practical AWS services.
@@ -247,14 +237,6 @@ I continue to expand my cloud and security knowledge through hands-on projects a
 I am currently pursuing a **full-time remote cybersecurity position** where I can contribute hands-on experience across security operations, infrastructure protection, network security, endpoint management, cloud services, and systems administration.
 
 I am particularly interested in opportunities that allow me to continue developing within a dedicated security team while applying the practical experience gained from managing and securing real-world environments.
-
----
-
-## GITHUB ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camcilrath&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
